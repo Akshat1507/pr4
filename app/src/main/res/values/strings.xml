@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pr4</string>
+    <string name="call">Call</string>
+    <string name="call_logs">Call_Logs</string>
+    <string name="contact">Contact</string>
+    <string name="browser">Browser</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+</resources>
